@@ -1,4 +1,4 @@
-# Projeto CRUD - Cadastro de Produtos
+# 🖥️ Projeto CRUD - Cadastro de Produtos 📚
 
 Este é um projeto simples de **CRUD (Create, Read, Update, Delete)** para gerenciar produtos em um banco de dados MySQL, desenvolvido em **C#** utilizando o **Windows Forms**. O projeto permite a inserção, edição e visualização de produtos em uma tabela de banco de dados.
 
@@ -28,7 +28,7 @@ Este é um projeto simples de **CRUD (Create, Read, Update, Delete)** para geren
 1. Clone o repositório para sua máquina:
 
     ```bash
-    git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+    git clone https://github.com/RNanWP/ExBDCrud.git
     ```
 
 2. Abra o projeto no Visual Studio.
